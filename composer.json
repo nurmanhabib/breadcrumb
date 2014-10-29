@@ -1,0 +1,24 @@
+{
+    "name": "nurmanhabib/breadcrumb",
+    "description": "Generate breadcrumb dengan tampilan bootstrap",
+    "license": "MIT",
+    "keywords": ["breadcrumb"],
+    "authors": [
+    {
+        "name": "Habib Nurrahman",
+        "email": "nurmanhabib@gmail.com",
+        "homepage": "http://habibnurrahman.com",
+        "role": "Developer"
+    }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Nurmanhabib\\Breadcrumb": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
