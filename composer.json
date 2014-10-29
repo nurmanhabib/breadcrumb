@@ -4,12 +4,12 @@
     "license": "MIT",
     "keywords": ["breadcrumb"],
     "authors": [
-    {
-        "name": "Habib Nurrahman",
-        "email": "nurmanhabib@gmail.com",
-        "homepage": "http://habibnurrahman.com",
-        "role": "Developer"
-    }
+        {
+            "name": "Habib Nurrahman",
+            "email": "nurmanhabib@gmail.com",
+            "homepage": "http://habibnurrahman.com",
+            "role": "Developer"
+        }
     ],
     "require": {
         "php": ">=5.4.0",
