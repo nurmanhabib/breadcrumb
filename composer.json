@@ -11,9 +11,14 @@
             "role": "Developer"
         }
     ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*"
+    },
     "autoload": {
-        "psr-4": {
-            "Nurmanhabib\\Breadcrumb\\": "src/"
+        "psr-0": {
+            "Nurmanhabib\\Breadcrumb": "src/"
         }
-    }
+    },
+    "minimum-stability": "stable"
 }
